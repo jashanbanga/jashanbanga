@@ -1,11 +1,3 @@
-#!/usr/bin/env python3
-# -*- coding: utf-8 -*-
-"""
-Created on Fri Feb 17 11:05:36 2023
-
-@author: jashanbanga
-"""
-
 
 ## I set my daily goals only on Monday
 ![](https://img.shields.io/badge/<TensorFlow>-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
