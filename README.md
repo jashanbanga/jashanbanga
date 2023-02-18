@@ -37,5 +37,5 @@ This github is my attempt to figure some of it and share my knowledge
 
 
 
-![Hamza's github stats](https://github-readme-stats.vercel.app/api?username=hamzafarooq&show_icons=true&theme=radical)
+![Hamza's github stats](https://github-readme-stats.vercel.app/api?username=jashanbangashow_icons=true&theme=radical)
 
