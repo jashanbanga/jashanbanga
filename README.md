@@ -13,7 +13,7 @@
 - 🤔 I’m looking for help with how to become a better Data Scientist!
 - 💬 Ask me about my course on Business Analytics
 - 📫 How to reach me: https://www.linkedin.com/in/jashanbanga/
-- - 😄 Pronouns: He/Him
+- 😄 Pronouns: He/Him
 - ⚡ Fun fact: I am not a huge fan of chocolates :( I love working out and enjoying nature at its best
 
 
