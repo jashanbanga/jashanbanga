@@ -17,6 +17,9 @@
 - ⚡ Fun fact: I am not a huge fan of chocolates :( I love working out and enjoying nature at its best. Check out the cool projects I have worked on
 
 
+
+To give an overview, I started my career as a Computer Engineering undergrad student where I pursued multiple Web development projects more towards backend development leveraging django framework (Python) and then delving into ML/Data science projects.
+
 Data Science/ML is vast and growing at an exponential rate and I have worked on multiple projects ranging from customer segmentation to demand forecasting to multiple exploratory analytics projects (strategy).
 
 This github is my attempt to figure some of it and share my knowledge.
