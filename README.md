@@ -1,5 +1,5 @@
 
-## I set my daily goals only on Monday
+## I set my daily goals on Sunday
 ![](https://img.shields.io/badge/<TensorFlow>-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/<XGB>-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/<LGBM>-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
@@ -23,8 +23,6 @@ To give an overview, I started my career as a Computer Engineering undergrad stu
 Data Science/ML is vast and growing at an exponential rate and I have worked on multiple projects ranging from customer segmentation to demand forecasting to multiple exploratory analytics projects (strategy).
 
 This github is my attempt to figure some of it and share my knowledge.
-
-
 
 ![Jashan's github stats](https://github-readme-stats.vercel.app/api?username=jashanbanga&show_icons=true&theme=radical)
 
