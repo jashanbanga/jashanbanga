@@ -17,9 +17,9 @@
 - ⚡ Fun fact: I am not a huge fan of chocolates :( I love working out and enjoying nature at its best. Check out the cool projects I have worked on
 
 
-Data Science/ML is vast and growing at an exponential rate; 
+Data Science/ML is vast and growing at an exponential rate and I have worked on multiple projects ranging from customer segmentation to demand forecasting to multiple exploratory analytics projects (strategy).
 
-This github is my attempt to figure some of it and share my knowledge
+This github is my attempt to figure some of it and share my knowledge.
 
 
 
