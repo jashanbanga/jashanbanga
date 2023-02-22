@@ -14,7 +14,7 @@
 - 💬 Ask me about my course on Business Analytics
 - 📫 How to reach me: https://www.linkedin.com/in/jashanbanga/
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: I am not a huge fan of chocolates :( I love working out and enjoying nature at its best. Check out the cool projects I have worked on
+- ⚡ Fun fact: I am not a huge fan of chocolates :( I love working out and enjoying nature at its best
 
 
 
@@ -22,7 +22,7 @@ To give an overview, I started my career as a Computer Engineering undergrad stu
 
 Data Science/ML is vast and growing at an exponential rate and I have worked on multiple projects ranging from customer segmentation to demand forecasting to multiple exploratory analytics projects (strategy).
 
-This github is my attempt to figure some of it and share my knowledge.
+This github is my attempt to figure some of it and share my knowledge. Do check out the cool projects that I have worked on
 
 ![Jashan's github stats](https://github-readme-stats.vercel.app/api?username=jashanbanga&show_icons=true&theme=radical)
 
