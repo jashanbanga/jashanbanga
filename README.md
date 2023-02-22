@@ -14,7 +14,7 @@
 - 💬 Ask me about my course on Business Analytics
 - 📫 How to reach me: https://www.linkedin.com/in/jashanbanga/
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: I am not a huge fan of chocolates :( I love working out and enjoying nature at its best
+- ⚡ Fun fact: I am not a huge fan of chocolates :( I love working out and enjoying nature at its best. Check out the cool projects I have worked on
 
 
 Data Science/ML is vast and growing at an exponential rate; 
